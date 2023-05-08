@@ -1,0 +1,7 @@
+#Practica de AWS X-Ray adaptada para sandbox de AWS Academy learner Labs
+
+##Paso 1
+Crea un bucket en S3 en la region us-east-1 donde se almacenara el paquete de despliegue de la aplicacion
+
+> $ aws s3 mb s3://<nombre_bucket>
+
